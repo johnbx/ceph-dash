@@ -43,4 +43,4 @@ if [ -n "${ID}" ]; then
     export CEPHDASH_ID="${ID}"
 fi
 
-python $*
+python2 $*
